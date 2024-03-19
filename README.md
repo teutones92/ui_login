@@ -1,19 +1,26 @@
 # ui_login
 
-A new Flutter project created with FlutLab - https://flutlab.io
+Simple UI login made with Flutter framework.
 
 ## Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+- Download Flutter SDK from https://flutter.dev/
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+### Run the following commands
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- flutter pub get.
+- flutter run.
 
-## Getting Started: FlutLab - Flutter Online IDE
+# ******
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+### Mobile
+![image](https://github.com/teutones92/ui_login/assets/72642474/dae73589-26bc-4e01-8087-b06ea75948ef)
+
+### Web
+
+![image](https://github.com/teutones92/ui_login/assets/72642474/024dea32-05b3-4f9c-a8bb-bdaee941903e)
+
+
+
+
+
