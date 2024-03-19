@@ -9,10 +9,10 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
         // theme: ThemeData(
         //   primarySwatch: const MaterialColor(0, {0: Colors.black}),
         // ),
-        home: const LoginPage());
+        home: LoginPage());
   }
 }
