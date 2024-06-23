@@ -21,8 +21,6 @@ Simple UI login made with Flutter framework.
 ![image](https://github.com/teutones92/ui_login/assets/72642474/024dea32-05b3-4f9c-a8bb-bdaee941903e)
 
 
-![login-text-button-login-sign-icon-label-sticker-web-buttons-vector](https://github.com/teutones92/ui_login/assets/72642474/aec9542a-d1e1-4204-b8dd-e9d01cb14242)
-
 
 
 
